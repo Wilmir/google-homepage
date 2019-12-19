@@ -71,7 +71,7 @@ body {
       display: flex;
       justify-content: center;
       align-items: center;
-      border: 1px solid #9AA0A6;
+      border: 1px solid #e5e5e5;
       padding: 5px;
       border-radius: 25px;
       margin-bottom: 20px;
@@ -81,7 +81,7 @@ body {
 .search-main:hover{
       border:  none;
       border: 1px solid transparent;
-      box-shadow: 0px 0px 5px #9AA0A6;
+      box-shadow: 0px 0px 10px #e5e5e5;
 }
 
 .search-icon{
@@ -112,7 +112,6 @@ body {
       background-size: 24px;
       vertical-align: middle;
       margin: 0 10px;
-      border-left: 1px solid #9AA0A6 ;
 }
 
 
